@@ -1,5 +1,7 @@
 # _Hair Salon_
 
+![Gordon Ramsy](https://media.giphy.com/media/IgvErdJbm6XjfAIdUx/giphy.gif)
+
 #### _A project with C Sharp in Databases with a Hairsalon., 2020 ver 1.0_
 
 #### By _Ian Gregg_
@@ -7,7 +9,7 @@
 
 ## Description
 
-_A project with C Sharp in Databases with a Hairsalon._
+_A project with C Sharp in Databases with a Hairsalon. Helping a nice lady set up a datbase of her stylists and all the clients that they have to keep track of._
 
 ## Setup/Installation Requirements
 
@@ -35,7 +37,7 @@ __
 | `Delete` a Client | `click` Delete client , "Bob" | `Display` no dipslay |
 | `Create` a Client | `click` Create client , "Bob" | `Display` "Bob" |
 | `Edit` a Client | `click` Edit client, "Bob" change to "Jill" | `Display` "Jill" |
-| `Detail` Stylist | `click` stylist "Avon" | `Display` "Avon & clients" |
+| `Detail` Stylist | `click` stylist "Avon" | `Display` "Avon & `clients`" |
 
 
 
