@@ -1,6 +1,6 @@
 # _Hair Salon_
 
-![Gordon Ramsy](https://media.giphy.com/media/IgvErdJbm6XjfAIdUx/giphy.gif)
+![Gordon Ramsy](https://media.giphy.com/media/ulUNA7uAC1o3e/giphy.gif)
 
 #### _A project with C Sharp in Databases with a Hairsalon., 2020 ver 1.0_
 
