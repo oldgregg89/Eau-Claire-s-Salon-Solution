@@ -32,8 +32,10 @@ __
 
 | Behavior    | Input | Output |
 | :---------- | ----- | -----: |
-| behavior 1 |  |  |
-| behavior 2 |  |  |
+| `Delete` a Client | `click` Delete client , "Bob" | `Display` no dipslay |
+| `Create` a Client | `click` Create client , "Bob" | `Display` "Bob" |
+| `Edit` a Client | `click` Edit client, "Bob" change to "Jill" | `Display` "Jill" |
+| `Detail` Stylist | `click` stylist "Avon" | `Display` "Avon & clients" |
 
 
 
@@ -57,4 +59,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-------------------------------------------------------------------------------
