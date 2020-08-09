@@ -30,7 +30,8 @@ in the terminal
 
 ## Setup Database Instruction
 * open your cloned file on your desktop and move the `ian_gregg.sql` document from the `EauClairsSalon.Solution` on to your dekstop. ![ian_gregg.sql](Assets/DBfilename.png)
-* Open your MySQL and open the tab to the `Administration` tab and click on `Data Import/Restore`. ![Sql-Import-tab](Assets/SqlImport.png)
+* Open your MySQL and open the tab to the `Administration` tab and click on `Data Import/Restore`. 
+![Sql-Import-tab](Assets/SqlImport.png)
 * Locate the file `ian_gregg.sql` and click `load folder contents`. ![Data-Import](Assets/DataImport.png)
 * Double check your `appsetting.json` is working properly with proper naming conventions & from there you should be good to go!
 
